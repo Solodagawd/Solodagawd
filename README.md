@@ -1,3 +1,4 @@
+<script>alert(1)</script>
 <h1 align="center">Hi, I'm Solo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solodagawd&label=Profile%20views&color=0e75b6&style=flat" alt="solodagawd" /> </p>
 
