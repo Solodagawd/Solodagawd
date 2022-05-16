@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solodagawd" alt="solodagawd" /></a> </p>
 
-- 🔭 I’m currently working on **LunarClient**
+- 🔭 I’m currently working on **Razor**
 
 - 🌱 I’m currently learning **C#, PY, JS, PHP, C++, VB.NET, C, Java, HTML5, CSS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Solodagawd](https://github.com/Solodagawd)
 
-- 📫 How to reach me **soloo#1337**
+- 📫 How to reach me **soIo#3000**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
