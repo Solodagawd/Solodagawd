@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Razor**
 
-- 🌱 I’m currently learning **C#, PY, JS, PHP, C++, VB.NET, C, Java, HTML5, CSS**
+- 🌱 I’m currently learning **C#, PY, JS, PHP, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Solodagawd](https://github.com/Solodagawd)
 
