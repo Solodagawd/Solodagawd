@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solodagawd" alt="solodagawd" /></a> </p>
 
-- 🔭 I’m currently working on **Razor**
-
 - 🌱 I’m currently learning **C#, PY, JS, PHP, Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Solodagawd](https://github.com/Solodagawd)
