@@ -3,15 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solodagawd" alt="solodagawd" /></a> </p>
 
-- 🌱 I’m currently learning **C#, PY, JS, PHP, Java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Solodagawd](https://github.com/Solodagawd)
-
-- 📫 How to reach me **soIo#3000**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://discord.gg/WW6Aq3bjmQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WW6Aq3bjmQ" height="30" width="40" /></a>
+<a href="https://discord.gg/client" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WW6Aq3bjmQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
